@@ -30,6 +30,9 @@ Run Python: python3 main.py
 
 FOR WINDOWS USERS.
 
+You can download the Installer and the Installer Make all the Steps for you.
+OR you doit Manually.
+
 First time to run make sure you have do step 1+2 and 3 is the execution step.
 
 Step 1:
