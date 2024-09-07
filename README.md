@@ -9,6 +9,7 @@ First time to run make sure you have do step 1+2 and 3 is the execution step.
 
 Step 1:
 Install python3:
+
 Debian/Ubuntu: apt install python3
 Fedora: dnf install python3
 Arch Linux: pacman -S python
